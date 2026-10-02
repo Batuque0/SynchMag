@@ -84,7 +84,3 @@ Esto instala `PyInstaller` si hace falta y genera `dist\SynchMag.exe`, que podé
 - La fecha de campaña se detecta automáticamente del primer punto del GPX (no hay que indicarla a mano).
 - La detección de `base_*` / `mobile_*` es independiente de la extensión del archivo.
 - Las correcciones NO extrapolan: si un timestamp del móvil cae fuera del rango temporal cubierto por el GPS o por la base, el programa lo avisa en pantalla en vez de inventar un valor.
-
-## Licencia
-
-Sin definir todavía.
